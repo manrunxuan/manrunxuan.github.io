@@ -8,7 +8,7 @@ profile:
   image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 307</p>
+    <p>Room 311</p>
     <p>School of Journalism and Communication, Nanjing University (Xianlin Campus)</p>
     <p>163 Xianlin Street, Nanjing, Jiangsu Province 210023</p>
 
