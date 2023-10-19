@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Cheng-Jun Wang",
+    "name": "runxuan Man",
     "label": "",
     "image": "",
-    "email": "wangchengjun@nju.edu.cn",
+    "email": "manrunxuan@gmail.com",
     "phone": "",
-    "url": "https://socratesclub.github.io/",
+    "url": "https://manrunxuan.github.io/",
     "summary": "",
     "location": {
       "address": "163 Xianlin Street",
@@ -17,17 +17,17 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "ChengJunWang",
-        "url": "https://twitter.com/ChengJunWang"
+        "username": "runxuan man",
+        "url": "https://twitter.com/runxuan man"
       }
     ]
   },
   "work": [
     {
       "name": "School of Journalism and Communication, Nanjing University",
-      "position": "Associate Professor",
+      "position": "Doctoral candidate",
       "url": "",
-      "startDate": "2017",
+      "startDate": "2023",
       "endDate": "Now",
       "summary": "",
       "highlights": [
@@ -38,15 +38,15 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "City University of Hong Kong, Hong Kong, China",
+      "institution": "Sichuan normal university, Si Chuan, China",
       "url": "",
       "area": "Media and Communication",
-      "studyType": "PhD",
-      "startDate": "2010",
-      "endDate": "2014",
+      "studyType": "master degree",
+      "startDate": "2016",
+      "endDate": "2019",
       "score": "",
       "courses": [
-        "Information Diffusion"
+        "Drama and Film Studies"
       ]
     }
   ],
