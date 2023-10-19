@@ -25,7 +25,7 @@ Manjing is a doctoral candidate at the School of Journalism and Communication, N
 
 <br>
     
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/about.md)
+✏️ [Edit this page](https://github.com/manrunxuan/manrunxuan.github.io/edit/master/_pages/about.md)
 
 <br>
 
