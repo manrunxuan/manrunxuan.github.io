@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: avatar.jpeg
+  image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 7-605-3</p>
